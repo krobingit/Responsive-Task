@@ -1,0 +1,57 @@
+:root{
+    font-size:10px;
+}
+
+.flag{
+    width:24rem;
+    height:18rem;
+    margin-left:3rem;
+    border-radius:1.5rem;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    
+}
+.details{
+   
+    background-color: #eee8aa;
+    min-height:15rem;
+    font-size :2rem;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    max-width:24rem;
+    height:19rem;
+    margin-bottom: 5rem;
+    margin-left:3rem;
+    border-radius:1.5rem;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    padding:0.8rem;
+    
+  
+    
+}
+.col-12 col-md-6 col-sm-12 col-lg-4 col-xl-3{
+    width:28rem;
+    font-family: 'Poppins', sans-serif;
+    padding:3rem;
+    
+    overflow:hidden;
+  
+
+}
+
+.details>h1,.sub-head{
+font-size: 2rem;
+font-weight: bold;
+text-align: center;
+
+}
+.details>h1{
+margin-bottom:1rem;
+}
+.sub-head{
+    margin-right:1rem;
+}
+
+.container{
+    margin-top:8rem;
+}
